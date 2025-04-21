@@ -1,71 +1,80 @@
 # Victor Alejandro Leiva Espinoza  
 **Data Scientist & Astronomer**  
 
-📍 San Pedro de la Paz, Chile | 📧 leivav177@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | 🛠️ [Portfolio](https://yourportfolio.com)  
-
-#### Technical Skills:  
-`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning` `Linux` `LaTeX` `Webots` `pPXF`  
-
----
-
-## 🎓 Education  
-**Master’s in Data Science for Innovation**  
-*University of Concepción* | Mar 2024 - Present  
-
-**Bachelor’s in Astronomy**  
-*University of Concepción* | Mar 2020 - Nov 2023  
+📍 San Pedro de la Paz, Chile  
+📧 leivav177@gmail.com  
+📞 (+56) 9 8270 4288  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🛠️ [Portfolio](https://yourportfolio.com)  
 
 ---
 
-## 💼 Work Experience  
+## 🔧 Technical Skills  
+`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning`  
+`Linux` `LaTeX` `Webots` `pPXF` `GitHub` `SSH` `HTML` `CSS`  
+
+---
+
+## 🧠 Languages  
+- **Spanish**: Native  
+- **English**: Advanced  
+
+---
+
+## 📚 Education  
+**M.Sc. in Data Science for Innovation**  
+*University of Concepción* | Mar 2024 – Present  
+
+**B.Sc. in Astronomy**  
+*University of Concepción* | Mar 2020 – Nov 2023  
+
+---
+
+## 💼 Experience  
 
 ### **Data Scientist**  
-*Center for Data and Artificial Intelligence, University of Concepción* | Mar 2024 - Present  
-- Developed a **reinforcement learning system** using Proximal Policy Optimization (PPO) to train Turtlebot3 robots in multi-task environments.  
-- Simulated controlled behaviors for **6+ robots** simultaneously in Webots, leveraging **Deepbots** methods.  
+*Center for Data and Artificial Intelligence, UdeC* | Jan 2025 – Present  
+- Developed PPO-based RL system for Turtlebot3 robots in Webots using Deepbots.  
 
 ### **Data Analyst for AI Training**  
-*Telus International (Remote)* | Aug 2024 - Present  
-- Optimized AI training data for search/autocomplete and **Points of Interest (POI) validation**, achieving **75% accuracy** in monthly evaluations.  
-- Validated routes/addresses for pedestrians, cyclists, and visual navigation systems.  
+*Telus International (Remote)* | Aug 2024 – Present  
+- Optimized AI data for autocomplete, POIs, and route validation with 75% accuracy.  
+
+### **Intern – Data & ML Workshops**  
+*Harvard SEAS* | Jun 2024  
+- Participated in classes on databases, regression, classification, and neural networks.  
+
+### **Teaching Assistant – Statistics**  
+*University of Concepción* | Aug – Dec 2023  
+- Taught statistical methods with focus on astrophysical applications.  
 
 ### **Research Assistant / Data Scientist**  
-*TITANS Millennium Hub (Supermassive Black Holes)* | Feb 2023 - Dec 2023  
-- Built a **Python pipeline** to analyze **1,300+ galactic spectra** (LAMOST/SDSS) using **pPXF**, estimating velocity dispersion for black hole mass calculations.  
-- Processed data via **SQL** and remote **SSH**, delivering weekly results to supervisors.  
-
-### **Teaching Assistant, Statistics**  
-*University of Concepción* | Aug 2023 - Dec 2023  
-- Led classes on **Descriptive Statistics, Distributions (Normal, Binomial), and Inferences (χ², T-Student)**.  
-- Enhanced course materials with **astrophysics applications** for Astronomy/Geology students.  
-
-### **Intern**  
-*Harvard University, John A. Paulson School of Engineering* | Jun 2024  
-- Attended workshops on **databases, ML (neural networks, decision trees)**, and startup innovation talks.  
+*TITANS Millennium Hub (SMBH Research)* | Feb – Dec 2023  
+- Built pipeline using pPXF for velocity dispersion in 1300+ galactic spectra.  
+- Queried and processed data using SQL & SSH.  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects (Main Page)  
 
-### **Reinforcement Learning for Multi-Robot Systems**  
-- Implemented **PPO** in Webots to train Turtlebot3 robots as self-supervising agents.  
-- **Tools**: Python, Deepbots, Webots.  
+### 📌 [Reinforcement Learning for Multi-Robot Systems](#)  
+- PPO-trained Turtlebot3 agents in Webots using Deepbots.  
+- **Tools**: Python, Webots, Deepbots  
 
-### **Galactic Spectra Analysis Pipeline**  
-- Automated **velocity dispersion calculations** for Supermassive Black Hole research using pPXF.  
-- **Impact**: Supported TITANS Hub’s mass estimation research.  
+### 📌 [Galactic Spectra Analysis Pipeline](#)  
+- Automated velocity dispersion estimation from SDSS & LAMOST for SMBH mass calculations.  
+- **Tools**: Python, pPXF, SQL, SSH  
 
 ---
 
 ## 📜 Certifications  
-- **Scientific Computing with Python** | *freeCodeCamp* | Sept 2023  
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/vpy7/scientific-computing-with-python-v7) – *freeCodeCamp*, Sept 2023  
 
 ---
 
-## 📫 References  
-- **Dr. Neil Mark Nagar** (Director, TITANS Millennium Hub) – `nagar@astro-udec.cl`  
-- **Maria José Medina Fritz, M.Sc.** (Statistics Instructor) – `mmedinaf@udec.cl`  
+## 🧾 References  
+**Dr. Neil Mark Nagar** – [Letter](https://drive.google.com/file/d/1NZLvgtx01EnPgj_7vm_SThzyDJMFBuhH/view?usp=sharing)  
+- Director, TITANS Millennium Hub | `nagar@astro-udec.cl`  
 
----
-
-✨ **Open to collaborations in Data Science, Robotics, and Astronomy!**  
+**María José Medina Fritz, M.Sc.** – [Letter](https://drive.google.com/file/d/1ml39AslgITrORMjsPyInBiDL_77I0OxM/view?usp=sharing)  
+- Instructor, UdeC Statistics Dept. | `mmedinaf@udec.cl`  
