@@ -9,6 +9,12 @@
 
 ---
 
+## 🚀 Projects (Main Page)  
+
+🔗 [Go to full portfolio →](./portfolio/)
+
+---
+
 ## 🔧 Technical Skills  
 `Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning`  
 `Linux` `LaTeX` `Webots` `pPXF` `GitHub` `SSH` `HTML` `CSS`  
@@ -52,18 +58,6 @@
 *TITANS Millennium Hub (SMBH Research)* | Feb – Dec 2023  
 - Built pipeline using pPXF for velocity dispersion in 1300+ galactic spectra.  
 - Queried and processed data using SQL & SSH.  
-
----
-
-## 🚀 Projects (Main Page)  
-
-### 📌 [Reinforcement Learning for Multi-Robot Systems](#)  
-- PPO-trained Turtlebot3 agents in Webots using Deepbots.  
-- **Tools**: Python, Webots, Deepbots  
-
-### 📌 [Galactic Spectra Analysis Pipeline](#)  
-- Automated velocity dispersion estimation from SDSS & LAMOST for SMBH mass calculations.  
-- **Tools**: Python, pPXF, SQL, SSH  
 
 ---
 
