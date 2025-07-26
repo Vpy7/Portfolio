@@ -10,7 +10,7 @@ theme: jekyll-theme-minimal
 Here's a curated list of notebooks and visualizations from my work.
 
 ### 🔬 Galactic Spectra Analysis
-[View Notebook](./notebooks/test)  
+[View Notebook](./notebooks/test.md)  
 Description: Velocity dispersion estimation using pPXF and SDSS/LAMOST data.
 
 <!-- Add more projects here -->
