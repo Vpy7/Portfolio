@@ -9,7 +9,7 @@ permalink: /portfolio/
 Here's a curated list of notebooks and visualizations from my work.
 
 ### 🔬 Galactic Spectra Analysis
-[View Notebook](https://github.com/yourusername/yourrepo/blob/main/GalacticSpectra.ipynb)  
+[View Notebook](./notebooks/test)  
 Description: Velocity dispersion estimation using pPXF and SDSS/LAMOST data.
 
 ### 🤖 Reinforcement Learning for Robotics
