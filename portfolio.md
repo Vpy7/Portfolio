@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Portfolio
-permalink: /portfolio/
+title: Projects
+permalink: /Projects/
+theme: jekyll-theme-minimal
 ---
 
 ## 📂 My Data Science & Astronomy Projects
