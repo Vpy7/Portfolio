@@ -8,7 +8,7 @@
 
 ## Projects
 
-🔗 [Full Project Portfolio →](./Projects.md/)
+ [Full Project Portfolio →](./Projects.md/)
 
 ---
 
