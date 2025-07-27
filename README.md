@@ -3,30 +3,16 @@
 
 📍 San Pedro de la Paz, Chile  
 📧 leivav177@gmail.com 
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🛠️ [Portfolio](https://yourportfolio.com)  
 
 ---
 
-## 🚀 Projects (Main Page)  
+## Projects
 
-🔗 [Go to full portfolio →](./Projects.md/)
-
----
-
-## 🔧 Technical Skills  
-`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning`  
-`Linux` `LaTeX` `Webots` `pPXF` `GitHub` `SSH` `HTML` `CSS`  
+🔗 [Full Project Portfolio →](./Projects.md/)
 
 ---
 
-## 🧠 Languages  
-- **Spanish**: Native  
-- **English**: Advanced  
-
----
-
-## 📚 Education  
+##  Education  
 **M.Sc. in Data Science for Innovation**  
 *University of Concepción* | Mar 2024 – Present  
 
@@ -35,37 +21,49 @@
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
 ### **Data Scientist**  
-*Center for Data and Artificial Intelligence, UdeC* | Jan 2025 – Present  
+*Centro de Datos e Inteligencia Artificial, Universidad de Concepción* | Jan 2025 – Present  
 - Developed PPO-based RL system for Turtlebot3 robots in Webots using Deepbots.  
 
 ### **Data Analyst for AI Training**  
-*Telus International (Remote)* | Aug 2024 – Present  
+*Telus International* | Aug 2024 – Present  
 - Optimized AI data for autocomplete, POIs, and route validation with 75% accuracy.  
 
 ### **Intern – Data & ML Workshops**  
-*Harvard SEAS* | Jun 2024  
+*Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University* | Jun 2024  
 - Participated in classes on databases, regression, classification, and neural networks.  
 
 ### **Teaching Assistant – Statistics**  
-*University of Concepción* | Aug – Dec 2023  
+*Facultad de Ciencias Físicas y Matemáticas, Universidad de Concepción* | Aug – Dec 2023  
 - Taught statistical methods with focus on astrophysical applications.  
 
 ### **Research Assistant / Data Scientist**  
-*TITANS Millennium Hub (SMBH Research)* | Feb – Dec 2023  
+*Núcleo Milenio Titans* | Feb – Dec 2023  
 - Built pipeline using pPXF for velocity dispersion in 1300+ galactic spectra.  
 - Queried and processed data using SQL & SSH.  
 
 ---
 
-## 📜 Certifications  
+##  Technical Skills  
+`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning`  
+`Linux` `LaTeX` `Webots` `pPXF` `GitHub` `SSH` `HTML` `CSS`  
+
+---
+
+##  Languages  
+- **Spanish**: Native  
+- **English**: Advanced  
+
+---
+
+##  Certifications  
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/vpy7/scientific-computing-with-python-v7) – *freeCodeCamp*, Sept 2023  
 
 ---
 
-## 🧾 References  
+##  References  
 **Dr. Neil Mark Nagar** – [Letter](https://drive.google.com/file/d/1NZLvgtx01EnPgj_7vm_SThzyDJMFBuhH/view?usp=sharing)  
 - Director, TITANS Millennium Hub | `nagar@astro-udec.cl`  
 
