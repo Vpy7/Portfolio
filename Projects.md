@@ -1,11 +1,19 @@
-## 📂 My Data Science & Astronomy Projects
+# Data Science  Projects
 
 Here's a curated list of notebooks and visualizations from my work.
+> [Full Project Repository]([https://github.com/yourusername/yourrepo](https://github.com/Vpy7/Jupyter-Analysis-Collection))
 
-### 🔬 Galactic Spectra Analysis
-[View Notebook](./notebooks/test.md)  
-Description: Velocity dispersion estimation using pPXF and SDSS/LAMOST data.
+---
+
+## Classification
+
+### Store Membership Renewal
+[View Notebook]([./notebooks/test.md](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Classification/Store%20Membership%20Renewal/Membership%20groceries%20store%20user%20profile%20Dataset.ipynb))  
+Description:This project focuses on analyzing annual behavioral data of members from a membership-based grocery store in China (2024) to predict membership auto-renewal and design targeted retention strategies. The dataset includes variables such as shopping frequency, app engagement, promotions usage, and customer demographics. The goal is to uncover behavioral patterns, build a predictive model, and derive actionable insights to improve customer loyalty and reduce churn.
+
+---
+
 
 <!-- Add more projects here -->
 
-> Full repository: [Project Repository](https://github.com/yourusername/yourrepo)
+
