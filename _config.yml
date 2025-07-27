@@ -1,13 +1,15 @@
-title: Victor Leiva Espinoza
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+title: Victor Alejandro Leiva Espinoza
+# logo: /assets/img/headshot_circle.png
+description: MSc. Data Science
+theme: minimal-mistakes-jekyll
+
 navigation:
   - title: Main Page
     url: https://vpy7.github.io/Portfolio/
+    icon: home
   - title: Projects
     url: https://vpy7.github.io/Portfolio/Projects.html
+    icon: folder
 social_links:
   - name: GitHub
     url: https://github.com/your-username
