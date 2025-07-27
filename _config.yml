@@ -1,7 +1,7 @@
 title: Victor Alejandro Leiva Espinoza
 # logo: /assets/img/headshot_circle.png
 description: M.Sc. Data Science
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-tactile
 
 navigation:
   - title: Main Page
