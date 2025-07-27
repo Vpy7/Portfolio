@@ -2,8 +2,7 @@
 **Data Scientist & Astronomer**  
 
 📍 San Pedro de la Paz, Chile  
-📧 leivav177@gmail.com  
-📞 (+56) 9 8270 4288  
+📧 leivav177@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🛠️ [Portfolio](https://yourportfolio.com)  
 
