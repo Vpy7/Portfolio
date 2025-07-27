@@ -1,5 +1,5 @@
 # Victor Alejandro Leiva Espinoza  
-**Data Scientist & Astronomer**  
+**Data Scientist**  
 
 📍 San Pedro de la Paz, Chile  
 📧 leivav177@gmail.com 
