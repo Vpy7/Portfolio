@@ -1,10 +1,3 @@
----
-layout: page
-title: Projects
-permalink: /Projects/
-theme: jekyll-theme-minimal
----
-
 ## 📂 My Data Science & Astronomy Projects
 
 Here's a curated list of notebooks and visualizations from my work.
