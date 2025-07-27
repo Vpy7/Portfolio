@@ -3,3 +3,15 @@ title: Victor Leiva Espinoza
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
+navigation:
+  - title: Main Page
+    url: https://vpy7.github.io/Portfolio/
+  - title: Projects
+    url: https://vpy7.github.io/Portfolio/Projects.html
+social_links:
+  - name: GitHub
+    url: https://github.com/your-username
+  - name: LinkedIn
+    url: https://linkedin.com/in/your-username
+  - name: Twitter
+    url: https://twitter.com/your-handle
