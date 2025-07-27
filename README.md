@@ -11,7 +11,7 @@
 
 ## 🚀 Projects (Main Page)  
 
-🔗 [Go to full portfolio →](./Projects/)
+🔗 [Go to full portfolio →](./Projects.md/)
 
 ---
 
