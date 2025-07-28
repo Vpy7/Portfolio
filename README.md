@@ -49,6 +49,8 @@
 
 ## 🛠️ Technical Skills  
 
+I include all relevant languages, packages and methodologies in which i have proven experience.
+
 ### Programming Languages  
 `Python` `R` `NoSQL` `Bash` `JavaScript` `HTML` `CSS`
 
@@ -78,26 +80,22 @@
 `Reinforcement Learning`   
 `Hypothesis Testing` `Experiment Design`  
 `Feature Engineering` `Hyperparameter Tuning`  
-`Bayesian Inference` `Monte Carlo Simulation`
+`Monte Carlo Simulation`
 
 ### Math & Stats Foundations  
 `Linear Algebra` `Calculus` `Statistics` `Probability`
 
 ### Databases & Querying  
 `PostgreSQL` `MySQL` `SQLite` 
-`SQL` `NoSQL` `Data Modeling`
+`SQL` `Data Modeling`
 
 ### APIs & Web Technologies  
 `REST`  `Web Scraping` `BeautifulSoup` `Selenium`  
 `JSON` `YAML` `XML` 
 
-### Cloud Platforms  
-`AWS` `GCP` `Azure` `DigitalOcean`
-
 ### Tools & Environments  
-`Jupyter` `VSCode` `Google Colab` `RStudio`  
-`Git` `GitHub` `GitLab` `Bitbucket` `SSH`  
-`Excel` `Google Sheets`  
+`Jupyter` `VSCode` `Google Colab` `GitHub` `SSH`  
+`Google Sheets`  
 `LaTeX` `Markdown`
 
 ### BI & Reporting Tools  
