@@ -1,18 +1,19 @@
 # Victor Alejandro Leiva Espinoza  
 **Data Scientist**  
 
-📍 San Pedro de la Paz, Chile  
-📧 leivav177@gmail.com 
+📍 San Pedro de la Paz, Chile
+📧 leivav177@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/vpy7/)
+🐙 [GitHub](https://github.com/Vpy7)
+
 
 ---
 
-## Projects
-
- [Full Project Portfolio →](./Projects.md/)
+## [🚀 Project Portfolio](./Projects.md/)
 
 ---
 
-##  Education  
+## 🎓 Education  
 **M.Sc. in Data Science for Innovation**  
 *University of Concepción* | Mar 2024 – Present  
 
@@ -21,7 +22,7 @@
 
 ---
 
-##  Experience  
+## 💼 Experience  
 
 ### **Data Scientist**  
 *Centro de Datos e Inteligencia Artificial, Universidad de Concepción* | Jan 2025 – Present  
@@ -46,24 +47,79 @@
 
 ---
 
-##  Technical Skills  
-`Python` `Pandas` `NumPy` `Scikit-Learn` `SQL` `Reinforcement Learning`  
-`Linux` `LaTeX` `Webots` `pPXF` `GitHub` `SSH` `HTML` `CSS`  
+## 🛠️ Technical Skills  
+
+### Programming Languages  
+`Python` `R` `NoSQL` `Bash` `JavaScript` `HTML` `CSS`
+
+### Libraries & Frameworks  
+
+#### Data Manipulation & Analysis  
+`Pandas` `NumPy` 
+
+#### Data Visualization  
+`Matplotlib` `Seaborn` `Plotly` 
+
+#### Machine Learning  
+`Scikit-Learn` `XGBoost` 
+`TensorFlow` `Keras` `PyTorch` 
+
+#### Computer Vision  
+`OpenCV` `Object Detection` `Image Classification`
+
+#### Reinforcement Learning  
+`Deepbots`
+
+#### Time Series Analysis  
+`ARIMA` `Statsmodels`
+
+### Data Science Methodologies  
+`Supervised Learning` `Unsupervised Learning` 
+`Reinforcement Learning`   
+`Hypothesis Testing` `Experiment Design`  
+`Feature Engineering` `Hyperparameter Tuning`  
+`Bayesian Inference` `Monte Carlo Simulation`
+
+### Math & Stats Foundations  
+`Linear Algebra` `Calculus` `Statistics` `Probability`
+
+### Databases & Querying  
+`PostgreSQL` `MySQL` `SQLite` 
+`SQL` `NoSQL` `Data Modeling`
+
+### APIs & Web Technologies  
+`REST`  `Web Scraping` `BeautifulSoup` `Selenium`  
+`JSON` `YAML` `XML` 
+
+### Cloud Platforms  
+`AWS` `GCP` `Azure` `DigitalOcean`
+
+### Tools & Environments  
+`Jupyter` `VSCode` `Google Colab` `RStudio`  
+`Git` `GitHub` `GitLab` `Bitbucket` `SSH`  
+`Excel` `Google Sheets`  
+`LaTeX` `Markdown`
+
+### BI & Reporting Tools  
+`Power BI` 
+
+### Data Handling Skills  
+`Data Cleaning`  `Data Visualization`
 
 ---
 
-##  Languages  
+## 🌐  Languages  
 - **Spanish**: Native  
 - **English**: Advanced  
 
 ---
 
-##  Certifications  
+## 📜 Certifications  
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/vpy7/scientific-computing-with-python-v7) – *freeCodeCamp*, Sept 2023  
 
 ---
 
-##  References  
+## 🧾 References  
 **Dr. Neil Mark Nagar** – [Letter](https://drive.google.com/file/d/1NZLvgtx01EnPgj_7vm_SThzyDJMFBuhH/view?usp=sharing)  
 - Director, TITANS Millennium Hub | `nagar@astro-udec.cl`  
 
