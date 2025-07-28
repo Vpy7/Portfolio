@@ -11,10 +11,10 @@
 ---
 
 ## 🎓 Education  
-**M.Sc. in Data Science for Innovation**  
+### **M.Sc. in Data Science for Innovation**  
 *Universidad de Concepción* | Mar 2024 – Present  
 
-**B.Sc. in Astronomy**  
+### **B.Sc. in Astronomy**  
 *Universidad de Concepción* | Mar 2020 – Nov 2023  
 
 ---
