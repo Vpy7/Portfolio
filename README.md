@@ -1,6 +1,3 @@
-# Victor Alejandro Leiva Espinoza  
-**Data Scientist**  
-
 📍 San Pedro de la Paz, Chile
 📧 leivav177@gmail.com
 💼 [LinkedIn](https://www.linkedin.com/in/vpy7/)
@@ -37,7 +34,7 @@
 - Participated in classes on databases, regression, classification, and neural networks.  
 
 ### **Teaching Assistant – Statistics**  
-*Facultad de Ciencias Físicas y Matemáticas, Universidad de Concepción* | Aug – Dec 2023  
+*Departamento de Estadística, Universidad de Concepción* | Aug – Dec 2023  
 - Taught statistical methods with focus on astrophysical applications.  
 
 ### **Research Assistant / Data Scientist**  
@@ -119,7 +116,7 @@ I include all relevant languages, packages and methodologies in which i have pro
 
 ## 🧾 References  
 **Dr. Neil Mark Nagar** – [Letter](https://drive.google.com/file/d/1NZLvgtx01EnPgj_7vm_SThzyDJMFBuhH/view?usp=sharing)  
-- Director, TITANS Millennium Hub | `nagar@astro-udec.cl`  
+- Director, Núcleo Milenio TITANs | `nagar@astro-udec.cl`  
 
 **María José Medina Fritz, M.Sc.** – [Letter](https://drive.google.com/file/d/1ml39AslgITrORMjsPyInBiDL_77I0OxM/view?usp=sharing)  
-- Instructor, UdeC Statistics Dept. | `mmedinaf@udec.cl`  
+- Departamento de Estadística, Universidad de Concepción. | `mmedinaf@udec.cl`  
