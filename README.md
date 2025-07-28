@@ -2,11 +2,8 @@
 **Data Scientist**  
 
 📍 San Pedro de la Paz, Chile
-
 📧 leivav177@gmail.com
-
 💼 [LinkedIn](https://www.linkedin.com/in/vpy7/)
-
 🐙 [GitHub](https://github.com/Vpy7)
 
 
