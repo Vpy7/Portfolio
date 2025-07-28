@@ -1,30 +1,4 @@
-title: "Victor Alejandro Leiva Espinoza"
-description: "Data Scientist | M.Sc. in Data Science for Innovation | Astronomy B.Sc."
+title: Victor Alejandro Leiva Espinoza
+# logo: /assets/img/headshot_circle.png
+description: M.Sc. Data Science
 theme: jekyll-theme-midnight
-
-url: "https://vpy7.github.io"
-baseurl: ""
-
-author:
-  name: "Victor Alejandro Leiva Espinoza"
-  email: "leivav177@gmail.com"
-  linkedin: "https://www.linkedin.com/in/vpy7/"
-  github: "https://github.com/Vpy7"
-
-social_links:
-  - name: "GitHub"
-    url: "https://github.com/Vpy7"
-  - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/vpy7"
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-
-sass:
-  style: compressed
