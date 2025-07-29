@@ -15,4 +15,4 @@ This project focuses on building a predictive model to estimate the daily demand
 
 This project aims to apply machine learning techniques to predict the focal depth of earthquakes based on geographic and magnitude-related features. We use the Quakes dataset, a real-world collection of seismic events, to build and evaluate regression models that help uncover patterns influencing earthquake depth.
 
-> [Project](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Clustering/Teen%20Psychology%20v2)
+> [Project](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Regression/Earthquake%20Focal%20Depth%20Prediction)
