@@ -60,12 +60,7 @@ I include all relevant languages, packages and methodologies in which I have pro
 `Matplotlib` `Seaborn` `Plotly`
 
 #### Machine Learning  
-`Scikit-Learn` `XGBoost` `TensorFlow` `Keras` `PyTorch`  
-`RandomForestClassifier` `SMOTE` `ADASYN`  
-`GridSearchCV` `StratifiedKFold`  
-`LabelEncoder` `StandardScaler`  
-`ClassificationReport` `ROC-AUC` `Precision-Recall Curve`  
-`Threshold Adjustment`
+`Scikit-Learn` `XGBoost` `TensorFlow` `Keras` `PyTorch`  `RandomForestClassifier` `SMOTE` `ADASYN`  `GridSearchCV` `StratifiedKFold`  `LabelEncoder` `StandardScaler`  `ClassificationReport` `ROC-AUC` `Precision-Recall Curve`  `Threshold Adjustment`
 
 #### Computer Vision  
 `OpenCV` `Object Detection` `Image Classification`
@@ -77,26 +72,19 @@ I include all relevant languages, packages and methodologies in which I have pro
 `ARIMA` `Statsmodels`
 
 ### Data Science Methodologies  
-`Supervised Learning` `Unsupervised Learning` `Reinforcement Learning`  
-`Hypothesis Testing` `Experiment Design`  
-`Feature Engineering` `One-Hot Encoding`  
-`Hyperparameter Tuning` `Monte Carlo Simulation`
+`Supervised Learning` `Unsupervised Learning` `Reinforcement Learning`  `Hypothesis Testing` `Experiment Design`  `Feature Engineering` `One-Hot Encoding`  `Hyperparameter Tuning` `Monte Carlo Simulation`
 
 ### Math & Stats Foundations  
 `Linear Algebra` `Calculus` `Statistics` `Probability`
 
 ### Databases & Querying  
-`PostgreSQL` `MySQL` `SQLite`  
-`SQL` `Data Modeling`
+`PostgreSQL` `MySQL` `SQLite`  `SQL` `Data Modeling`
 
 ### APIs & Web Technologies  
-`REST`  `Web Scraping` `BeautifulSoup` `Selenium`  
-`JSON` `YAML` `XML` 
+`REST`  `Web Scraping` `BeautifulSoup` `Selenium`  `JSON` `YAML` `XML` 
 
 ### Tools & Environments  
-`Jupyter` `VSCode` `Google Colab` `GitHub` `SSH`  
-`Google Sheets`  
-`LaTeX` `Markdown`
+`Jupyter` `VSCode` `Google Colab` `GitHub` `SSH`  `Google Sheets`  `LaTeX` `Markdown`
 
 ### BI & Reporting Tools  
 `Power BI` 
