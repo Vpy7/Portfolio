@@ -46,7 +46,7 @@
 
 ## 🛠️ Technical Skills  
 
-I include all relevant languages, packages and methodologies in which i have proven experience.
+I include all relevant languages, packages and methodologies in which I have proven experience.
 
 ### Programming Languages  
 `Python` `R` `NoSQL` `Bash` `JavaScript` `HTML` `CSS`
@@ -54,14 +54,20 @@ I include all relevant languages, packages and methodologies in which i have pro
 ### Libraries & Frameworks  
 
 #### Data Manipulation & Analysis  
-`Pandas` `NumPy` 
+`Pandas` `NumPy` `Datetime Manipulation`
 
 #### Data Visualization  
-`Matplotlib` `Seaborn` `Plotly` 
+`Matplotlib` `Seaborn` `Plotly` `Plotly Express` `Plotly Graph Objects`  
+`Violin Plot` `Correlation Matrix`
 
 #### Machine Learning  
-`Scikit-Learn` `XGBoost` 
-`TensorFlow` `Keras` `PyTorch` 
+`Scikit-Learn` `XGBoost`  
+`RandomForestClassifier` `SMOTE` `ADASYN`  
+`Pipeline` `GridSearchCV` `StratifiedKFold`  
+`LabelEncoder` `StandardScaler` `TrainTestSplit`  
+`ClassificationReport` `ROC-AUC` `Precision-Recall Curve`  
+`Precision-Recall Optimization` `Threshold Adjustment`  
+`TensorFlow` `Keras` `PyTorch`
 
 #### Computer Vision  
 `OpenCV` `Object Detection` `Image Classification`
@@ -73,17 +79,17 @@ I include all relevant languages, packages and methodologies in which i have pro
 `ARIMA` `Statsmodels`
 
 ### Data Science Methodologies  
-`Supervised Learning` `Unsupervised Learning` 
-`Reinforcement Learning`   
+`Supervised Learning` `Unsupervised Learning`  
+`Reinforcement Learning`  
 `Hypothesis Testing` `Experiment Design`  
-`Feature Engineering` `Hyperparameter Tuning`  
-`Monte Carlo Simulation`
+`Feature Engineering` `One-Hot Encoding`  
+`Hyperparameter Tuning` `Monte Carlo Simulation`
 
 ### Math & Stats Foundations  
 `Linear Algebra` `Calculus` `Statistics` `Probability`
 
 ### Databases & Querying  
-`PostgreSQL` `MySQL` `SQLite` 
+`PostgreSQL` `MySQL` `SQLite`  
 `SQL` `Data Modeling`
 
 ### APIs & Web Technologies  
