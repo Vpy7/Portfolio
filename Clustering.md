@@ -1,6 +1,6 @@
 # Clustering
 
-## [Teen Psychology Clustering](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Classification/Store%20Membership%20Renewal/Membership%20groceries%20store%20user%20profile%20Dataset.ipynb)  
+## [Teen Psychology Clustering](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/main/Clustering/Teen%20Psychology/Teen_Psychology_Clustering.ipynb)  
 
 `Python` `Pandas` `NumPy` `Plotly` `Scikit-Learn` `XGBoost` `Supervised Learning` `Feature Engineering` `Hyperparameter Tuning` `Statistics` `Probability` `Data Modeling` `JSON` `Jupyter` `Google Colab` `GitHub` `Markdown` `Data Cleaning` `Data Visualization`
 
@@ -8,7 +8,7 @@ Teen mental health is a growing concern in an increasingly digital and high-pres
 
 > [Project](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Clustering/Teen%20Psychology)
 
-## [Teen Psychology Clustering: Second Approach](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Classification/Store%20Membership%20Renewal/Membership%20groceries%20store%20user%20profile%20Dataset.ipynb)  
+## [Teen Psychology Clustering: Second Approach](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/main/Clustering/Teen%20Psychology%20v2/Teen_Psychology_Clustering_v2.ipynb)  
 
 `Python` `Pandas` `NumPy` `Plotly` `Scikit-Learn` `XGBoost` `Supervised Learning` `Feature Engineering` `Hyperparameter Tuning` `Statistics` `Probability` `Data Modeling` `JSON` `Jupyter` `Google Colab` `GitHub` `Markdown` `Data Cleaning` `Data Visualization`
 
