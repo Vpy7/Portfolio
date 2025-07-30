@@ -1,5 +1,7 @@
 # Computer Vision
 
+---
+
 ## Rock Paper Scissors Classfication 
 
 ´Python´ ´TensorFlow´ ´Keras´ ´Object Detection´ ´Image Classification´ ´Supervised Learning´ ´Feature Engineering´ ´Statistics´ ´Probability´ ´Jupyter´ ´GitHub´ ´Markdown´ ´Data Cleaning´ ´Data Visualization´
