@@ -1,7 +1,5 @@
 # Data Science  Projects
 
-Here's a curated list of notebooks and visualizations from my work.
-
 ---
 
 ## [Classification](./Classification.md)
