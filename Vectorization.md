@@ -1,5 +1,7 @@
 # Vectorization
 
+---
+
 ## [Electric Vehicle Recommendation System](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Vectorization/EV%20Reccomendations/EV_Reccomendations.ipynb)  
 
 ´Python´ ´Pandas´ ´NumPy´ ´Matplotlib´ ´Scikit-Learn´ ´XGBoost´ ´Supervised Learning´ ´Unsupervised Learning´ ´Feature Engineering´ ´Hyperparameter Tuning´ ´Statistics´ ´Probability´ ´Data Modeling´ ´JSON´ ´Jupyter´ ´Google Colab´ ´GitHub´ ´Markdown´ ´Data Cleaning´ ´Data Visualization´
