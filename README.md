@@ -49,25 +49,23 @@
 I include all relevant languages, packages and methodologies in which I have proven experience.
 
 ### Programming Languages  
-`Python` `R` `NoSQL` `Bash` `JavaScript` `HTML` `CSS`
+`Python`
 
 ### Libraries & Frameworks  
 
 #### Data Manipulation & Analysis  
-`Pandas` `NumPy` `Datetime Manipulation`
+`Pandas` `NumPy`
 
 #### Data Visualization  
-`Matplotlib` `Seaborn` `Plotly` `Plotly Express` `Plotly Graph Objects`  
-`Violin Plot` `Correlation Matrix`
+`Matplotlib` `Seaborn` `Plotly`
 
 #### Machine Learning  
-`Scikit-Learn` `XGBoost`  
+`Scikit-Learn` `XGBoost` `TensorFlow` `Keras` `PyTorch`  
 `RandomForestClassifier` `SMOTE` `ADASYN`  
-`Pipeline` `GridSearchCV` `StratifiedKFold`  
-`LabelEncoder` `StandardScaler` `TrainTestSplit`  
+`GridSearchCV` `StratifiedKFold`  
+`LabelEncoder` `StandardScaler`  
 `ClassificationReport` `ROC-AUC` `Precision-Recall Curve`  
-`Precision-Recall Optimization` `Threshold Adjustment`  
-`TensorFlow` `Keras` `PyTorch`
+`Threshold Adjustment`
 
 #### Computer Vision  
 `OpenCV` `Object Detection` `Image Classification`
@@ -79,8 +77,7 @@ I include all relevant languages, packages and methodologies in which I have pro
 `ARIMA` `Statsmodels`
 
 ### Data Science Methodologies  
-`Supervised Learning` `Unsupervised Learning`  
-`Reinforcement Learning`  
+`Supervised Learning` `Unsupervised Learning` `Reinforcement Learning`  
 `Hypothesis Testing` `Experiment Design`  
 `Feature Engineering` `One-Hot Encoding`  
 `Hyperparameter Tuning` `Monte Carlo Simulation`
@@ -105,7 +102,7 @@ I include all relevant languages, packages and methodologies in which I have pro
 `Power BI` 
 
 ### Data Handling Skills  
-`Data Cleaning`  `Data Visualization`
+`Data Cleaning` `Data Visualization`
 
 ---
 
