@@ -1,5 +1,7 @@
 # Clustering
 
+---
+
 ## [Teen Psychology Clustering](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/main/Clustering/Teen%20Psychology/Teen_Psychology_Clustering.ipynb)  
 
 `Python` `Pandas` `NumPy` `Plotly` `Scikit-Learn` `XGBoost` `Supervised Learning` `Feature Engineering` `Hyperparameter Tuning` `Statistics` `Probability` `Data Modeling` `JSON` `Jupyter` `Google Colab` `GitHub` `Markdown` `Data Cleaning` `Data Visualization`
