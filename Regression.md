@@ -10,7 +10,7 @@ This project focuses on building a predictive model to estimate the daily demand
 
 > [Project](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Regression/Caf%C3%A9%20Demand%20Forecasting)
 
-## [Earthquake Focal Depth Prediction]([https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Classification/Store%20Membership%20Renewal/Membership%20groceries%20store%20user%20profile%20Dataset.ipynb](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Regression/Earthquake%20Focal%20Depth%20Prediction/Earthquake_Focal_Depth_Prediction.ipynb))  
+## [Earthquake Focal Depth Prediction](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Regression/Earthquake%20Focal%20Depth%20Prediction/Earthquake_Focal_Depth_Prediction.ipynb)  
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-Learn` `XGBoost` `Supervised Learning` `Feature Engineering` `Hyperparameter Tuning` `Statistics` `Probability` `Jupyter` `GitHub` `Markdown` `Data Cleaning` `Data Visualization`
 
