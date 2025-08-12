@@ -1,6 +1,7 @@
 # Classification
 
 [Go to Main Page](https://vpy7.github.io/Portfolio/)
+
 ---
 
 ## [Store Membership Renewal](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/f81a091db4e1921072158948bd860d08361f1d00/Classification/Store%20Membership%20Renewal/Membership%20groceries%20store%20user%20profile%20Dataset.ipynb)  
