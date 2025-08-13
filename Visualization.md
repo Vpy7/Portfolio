@@ -4,12 +4,17 @@
 
 ---
 
-## [[ES] Migración en Chile](https://nbviewer.org/github/Vpy7/Jupyter-Analysis-Collection/blob/main/Visualization/Migraci%C3%B3n%20en%20Chile/MigrantesChile%20%282005-2016%29.ipynb)  
+## [ES] Migración en Chile 
+
+`Python` `Pandas` `NumPy` `Plotly` `Dash` `Jupyter` `Markdown` `Data Cleaning` `Data Visualization`
+
 Este proyecto contiene visualizaciones en Python basadas en un dataset de migraciones entre los años 2005 y 2016
 
 > [Proyecto](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Visualization/Migraci%C3%B3n%20en%20Chile)
 
 ## [ES] Dashboard  para Comprobación de Desempeño de RLen Webots
+
+`Python` `Pandas` `NumPy` `Plotly` `Dash` `Jupyter` `Markdown` `Data Cleaning` `Data Visualization`
 
 Esta Visualización permite comprobar el desempeño de data obtenida desde una Simulación y Control de TurtleBot3 con Webots. Más info en [Aquí](https://github.com/Vpy7/Webots-Controllers) 
 
