@@ -1,4 +1,4 @@
-# Clustering
+# Visualization
 
 [Go to Main Page](https://vpy7.github.io/Portfolio/)
 
