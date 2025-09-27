@@ -6,15 +6,7 @@
 
 ---
 
-## [ES] Migración en Chile 
-
-`Python` `Pandas` `NumPy` `Plotly` `Dash` `Jupyter` `Markdown` `Data Cleaning` `Data Visualization`
-
-Este proyecto contiene visualizaciones en Python basadas en un dataset de migraciones entre los años 2005 y 2016
-
-> [Proyecto](https://github.com/Vpy7/Jupyter-Analysis-Collection/tree/main/Visualization/Migraci%C3%B3n%20en%20Chile)
-
-## [ES] Dashboard  para Comprobación de Desempeño de RLen Webots
+## [ES] Dashboard  para Comprobación de Desempeño de RL en Webots
 
 `Python` `Pandas` `NumPy` `Plotly` `Dash` `Jupyter` `Markdown` `Data Cleaning` `Data Visualization`
 
