@@ -21,26 +21,38 @@
 
 ## 💼 Experience  
 
-### **Data Scientist**  
+### **Data Scientist (Intern)**  
 *Centro de Datos e Inteligencia Artificial, Universidad de Concepción* | Jan 2025 – Present  
-- Developed PPO-based RL system for Turtlebot3 robots in Webots using Deepbots.  
+- Built a PPO-based RL system for Turtlebot3 robots in Webots, improving task success rate by 25% in 2 months.  
+- Simulated multi-robot behavior (up to 6) with Deepbots.  
+- Developed a Python dashboard to monitor training performance.  
 
-### **Data Analyst for AI Training**  
+### **Data Analyst – AI Training**  
 *Telus International* | Aug 2024 – Present  
-- Optimized AI data for autocomplete, POIs, and route validation with 75% accuracy.  
+- Process and clean complex datasets to ensure quality for AI models.  
+- Work under NDA ensuring confidentiality of metrics and outputs.  
 
 ### **Intern – Data & ML Workshops**  
-*Harvard John A. Paulson School of Engineering and Applied Sciences, Harvard University* | Jun 2024  
-- Participated in classes on databases, regression, classification, and neural networks.  
+*Harvard John A. Paulson School of Engineering and Applied Sciences* | Jun 2024  
+- Attended workshops on visualization, regression, classification, trees, and neural networks.  
+- Participated in innovation and startup talks and hands-on ML labs.  
 
 ### **Teaching Assistant – Statistics**  
 *Departamento de Estadística, Universidad de Concepción* | Aug – Dec 2023  
-- Taught statistical methods with focus on astrophysical applications.  
+- Delivered weekly lectures for Astronomy & Geology students.  
+- Covered descriptive statistics, distributions (Normal, Binomial, etc.), and inference tests (χ², t-test, Fisher).  
+- Improved course materials with astrophysical applications.  
 
 ### **Research Assistant / Data Scientist**  
-*Núcleo Milenio Titans* | Feb – Dec 2023  
-- Built pipeline using pPXF for velocity dispersion in 1300+ galactic spectra.  
-- Queried and processed data using SQL & SSH.  
+*Núcleo Milenio TITANs* | Feb – Dec 2023  
+- Built and tested Python pipeline with pPXF to estimate SMBH masses from 1300+ galactic spectra (LAMOST, SDSS).  
+- Queried/processed large datasets with SQL and remote servers via SSH.  
+- Reported weekly results to PI.  
+
+### **Intern**  
+*Núcleo Milenio TITANs* | Jan 2023  
+- Contributed to early development of the pPXF pipeline in Python.  
+- Updated third-party code to Python 3.10 and pPXF 8.2.  
 
 ---
 
