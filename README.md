@@ -112,11 +112,6 @@ I include all relevant languages, packages and methodologies in which I have pro
 
 ---
 
-##  Certifications  
-- [Scientific Computing with Python](https://www.freecodecamp.org/certification/vpy7/scientific-computing-with-python-v7) – *freeCodeCamp*, Sept 2023  
-
----
-
 ##  References  
 **Dr. Neil Mark Nagar** – [Letter](https://drive.google.com/file/d/1NZLvgtx01EnPgj_7vm_SThzyDJMFBuhH/view?usp=sharing)  
 - Director, Núcleo Milenio TITANs | `nagar@astro-udec.cl`  
